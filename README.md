@@ -60,7 +60,7 @@ Contribuições são muito bem-vindas! Sinta-se à vontade para abrir issues e p
 
 ## Licença
 
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](..ClimeaTempo/licence) para mais detalhes.
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](/LICENCE) para mais detalhes.
 
 
 👨🏾‍💻 Desenvolvido com ☀️ por Lucas Sousa 
