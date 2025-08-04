@@ -1,3 +1,8 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=+Clima+Tempo+:%29)](https://git.io/typing-svg) 
+
+
 # Sistema de informações climáticas em tempo real
 Desenvolver um sistema que utiliza uma API climática
 (WeatherAPI) para obter e, exibir dados meteorológicos
@@ -21,10 +26,11 @@ Tudo isso apresentado em uma interface leve, acessível e responsiva.
 Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 HTML5 + CSS3
-JavaScript (ou TypeScript, se aplicável)
-Framework (ex: React, Vue, Angular) (se usar algum)
-API de clima: OpenWeatherMap ou WeatherAPI
-Axios / Fetch API para requisições HTTP
+JSON
+JavaScript
+React
+WeatherAPI
+Axios / Fetch API 
 
 ## Funcionalidades
 
@@ -63,5 +69,6 @@ Contribuições são muito bem-vindas! Sinta-se à vontade para abrir issues e p
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](/LICENCE) para mais detalhes.
 
 
-👨🏾‍💻 Desenvolvido com ☀️ por Lucas Sousa 
+👨🏾‍💻 Desenvolvido por Lucas Sousa 
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
