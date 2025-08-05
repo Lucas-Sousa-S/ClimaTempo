@@ -47,7 +47,7 @@ Axios / Fetch API
 ## Como executar localmente
 ```
 # Clone o repositório
-git clone https://github.com/Lucas-Sousa-S/ClimeaTempo
+git clone https://github.com/Lucas-Sousa-S/ClimaTempo
 
 # Acesse o diretório
 cd ClimeaTempo
