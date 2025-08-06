@@ -6,7 +6,7 @@
  
 Desenvolvi um sistema que utiliza uma API climática
 (WeatherAPI) para obter e, exibir dados meteorológicos
-atuais para uma cidade específica.
+atuais para uma cidade específica. 
 
 </div>
 
@@ -16,7 +16,7 @@ atuais para uma cidade específica.
   <a href="#deploy">🚀 Deploy</a>
 </p>
 
-## Sobre o projeto
+## Sobre o projeto ⛅︎
 
 Clima Tempo é um sistema inteligente de informações climáticas em tempo real. A plataforma permite o monitoramento contínuo de dados atmosféricos e fornece ao usuário uma visão clara e atualizada do clima de qualquer localidade.
 
