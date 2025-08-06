@@ -11,12 +11,12 @@ atuais para uma cidade específica.
 </div>
 
 <p align="center">
-  <a href="#-Tecnologias">🛠 Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Projeto"> 👨🏾‍💻 Funcionalidades </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-deploy"> 🚀 Deploy</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#tecnologias">🛠 Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#funcionalidades">👨🏾‍💻 Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#deploy">🚀 Deploy</a>
 </p>
 
-# Sobre o projeto
+## Sobre o projeto
 
 Clima Tempo é um sistema inteligente de informações climáticas em tempo real. A plataforma permite o monitoramento contínuo de dados atmosféricos e fornece ao usuário uma visão clara e atualizada do clima de qualquer localidade.
 
@@ -29,7 +29,7 @@ Velocidade do vento
 Previsão para os próximos dias 
 Tudo isso apresentado em uma interface leve, acessível e responsiva.
 
-# Tecnologias 
+## Tecnologias 
 
 Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
@@ -40,7 +40,7 @@ React
 WeatherAPI
 Axios / Fetch API 
 
-# Funcionalidades
+## Funcionalidades
 
  - Busca por cidade
 - Detecção automática de localização (via Geolocalização)
@@ -49,7 +49,7 @@ Axios / Fetch API
 - Alteração de tema claro/escuro (se houver)
 
 
-# Como executar localmente
+## Como executar localmente
 ```
 # Clone o repositório
 git clone https://github.com/Lucas-Sousa-S/ClimaTempo
@@ -64,11 +64,11 @@ npm install
 npm start
 
 ```
-# Deploy
+## Deploy
 
 Você pode visualizar o projeto funcionando através do seguinte link: [Deploy do Projeto]().
 
-# Licença
+## Licença
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](/LICENCE) para mais detalhes.
 
