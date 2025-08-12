@@ -73,6 +73,6 @@ Você pode visualizar o projeto funcionando através do seguinte link: [Deploy d
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](/LICENCE) para mais detalhes.
 
 
-👨🏾‍💻 Desenvolvido por Lucas Sousa 
+👨🏾‍💻 Desenvolvido por [Lucas Sousa](https://github.com/Lucas-Sousa-S)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
